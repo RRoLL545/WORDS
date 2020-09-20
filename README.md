@@ -1,1 +1,1 @@
-"WORDS" the game.
+["WORDS" the game] (https://rroll545.github.io/words/cv)
